@@ -1,0 +1,101 @@
+Activity,Computer,DeviceEventClassID,DeviceProduct,DeviceVendor,DeviceVersion,LogSeverity
+Login,PC17,ID1016,PaloAltoFirewall,PaloAlto,9.0.0,High
+Logout,PC13,ID1062,PaloAltoFirewall,PaloAlto,10.0.0,High
+File Access,PC20,ID1098,PaloAltoFirewall,PaloAlto,9.0.0,High
+File Access,PC4,ID1009,PaloAltoFirewall,PaloAlto,9.0.0,Low
+Configuration Change,PC20,ID1069,PaloAltoFirewall,PaloAlto,9.0.0,Low
+File Access,PC14,ID1058,PaloAltoFirewall,PaloAlto,10.0.0,Critical
+Network Connection,PC18,ID1084,PaloAltoFirewall,PaloAlto,9.0.0,High
+Logout,PC13,ID1023,PaloAltoFirewall,PaloAlto,9.0.0,Critical
+File Access,PC1,ID1041,PaloAltoFirewall,PaloAlto,10.0.0,Low
+Login,PC15,ID1019,PaloAltoFirewall,PaloAlto,8.1.0,Medium
+File Access,PC6,ID1004,PaloAltoFirewall,PaloAlto,10.0.0,Low
+Login,PC5,ID1052,PaloAltoFirewall,PaloAlto,9.0.0,Low
+Login,PC9,ID1003,PaloAltoFirewall,PaloAlto,10.0.0,Critical
+Network Connection,PC11,ID1013,PaloAltoFirewall,PaloAlto,8.1.0,High
+File Access,PC10,ID1061,PaloAltoFirewall,PaloAlto,9.0.0,Medium
+Configuration Change,PC10,ID1095,PaloAltoFirewall,PaloAlto,10.0.0,High
+Logout,PC15,ID1065,PaloAltoFirewall,PaloAlto,10.0.0,Low
+Network Connection,PC8,ID1048,PaloAltoFirewall,PaloAlto,9.0.0,Low
+File Access,PC16,ID1049,PaloAltoFirewall,PaloAlto,10.0.0,Critical
+Configuration Change,PC7,ID1035,PaloAltoFirewall,PaloAlto,9.0.0,High
+File Access,PC7,ID1004,PaloAltoFirewall,PaloAlto,10.0.0,Medium
+Configuration Change,PC2,ID1026,PaloAltoFirewall,PaloAlto,8.1.0,High
+Logout,PC17,ID1088,PaloAltoFirewall,PaloAlto,9.0.0,Critical
+Configuration Change,PC3,ID1072,PaloAltoFirewall,PaloAlto,8.1.0,Low
+File Access,PC11,ID1050,PaloAltoFirewall,PaloAlto,10.0.0,High
+Network Connection,PC19,ID1036,PaloAltoFirewall,PaloAlto,9.0.0,High
+Network Connection,PC8,ID1038,PaloAltoFirewall,PaloAlto,10.0.0,Low
+Configuration Change,PC12,ID1046,PaloAltoFirewall,PaloAlto,10.0.0,Medium
+Logout,PC5,ID1094,PaloAltoFirewall,PaloAlto,8.1.0,High
+Logout,PC17,ID1061,PaloAltoFirewall,PaloAlto,8.1.0,High
+File Access,PC19,ID1075,PaloAltoFirewall,PaloAlto,8.1.0,High
+Network Connection,PC1,ID1070,PaloAltoFirewall,PaloAlto,10.0.0,High
+File Access,PC18,ID1099,PaloAltoFirewall,PaloAlto,8.1.0,High
+Network Connection,PC14,ID1075,PaloAltoFirewall,PaloAlto,9.0.0,Low
+Configuration Change,PC1,ID1095,PaloAltoFirewall,PaloAlto,8.1.0,High
+Network Connection,PC1,ID1035,PaloAltoFirewall,PaloAlto,9.0.0,Medium
+Logout,PC14,ID1095,PaloAltoFirewall,PaloAlto,9.0.0,Low
+Logout,PC6,ID1046,PaloAltoFirewall,PaloAlto,8.1.0,Low
+Configuration Change,PC15,ID1093,PaloAltoFirewall,PaloAlto,10.0.0,High
+Logout,PC5,ID1082,PaloAltoFirewall,PaloAlto,8.1.0,High
+Logout,PC5,ID1027,PaloAltoFirewall,PaloAlto,9.0.0,Critical
+Login,PC1,ID1058,PaloAltoFirewall,PaloAlto,10.0.0,Critical
+Login,PC5,ID1029,PaloAltoFirewall,PaloAlto,9.0.0,Low
+Network Connection,PC7,ID1076,PaloAltoFirewall,PaloAlto,10.0.0,Critical
+Login,PC20,ID1096,PaloAltoFirewall,PaloAlto,10.0.0,Low
+Login,PC20,ID1081,PaloAltoFirewall,PaloAlto,10.0.0,High
+Logout,PC19,ID1049,PaloAltoFirewall,PaloAlto,9.0.0,Low
+File Access,PC2,ID1037,PaloAltoFirewall,PaloAlto,9.0.0,Medium
+Configuration Change,PC2,ID1040,PaloAltoFirewall,PaloAlto,10.0.0,Critical
+Logout,PC11,ID1049,PaloAltoFirewall,PaloAlto,10.0.0,Medium
+Login,PC8,ID1069,PaloAltoFirewall,PaloAlto,10.0.0,Low
+Network Connection,PC9,ID1088,PaloAltoFirewall,PaloAlto,9.0.0,Critical
+Logout,PC12,ID1025,PaloAltoFirewall,PaloAlto,10.0.0,Medium
+Network Connection,PC4,ID1034,PaloAltoFirewall,PaloAlto,8.1.0,Low
+Configuration Change,PC1,ID1098,PaloAltoFirewall,PaloAlto,10.0.0,Medium
+Configuration Change,PC8,ID1046,PaloAltoFirewall,PaloAlto,9.0.0,Medium
+Network Connection,PC16,ID1019,PaloAltoFirewall,PaloAlto,10.0.0,High
+Network Connection,PC2,ID1072,PaloAltoFirewall,PaloAlto,10.0.0,High
+Network Connection,PC15,ID1059,PaloAltoFirewall,PaloAlto,10.0.0,Critical
+Logout,PC12,ID1005,PaloAltoFirewall,PaloAlto,8.1.0,High
+File Access,PC16,ID1062,PaloAltoFirewall,PaloAlto,10.0.0,Medium
+Network Connection,PC3,ID1008,PaloAltoFirewall,PaloAlto,10.0.0,High
+Logout,PC3,ID1070,PaloAltoFirewall,PaloAlto,9.0.0,Low
+Network Connection,PC15,ID1079,PaloAltoFirewall,PaloAlto,9.0.0,Critical
+Login,PC1,ID1043,PaloAltoFirewall,PaloAlto,9.0.0,Critical
+Network Connection,PC2,ID1027,PaloAltoFirewall,PaloAlto,10.0.0,High
+Configuration Change,PC1,ID1040,PaloAltoFirewall,PaloAlto,10.0.0,Low
+Configuration Change,PC6,ID1061,PaloAltoFirewall,PaloAlto,8.1.0,Medium
+Network Connection,PC2,ID1099,PaloAltoFirewall,PaloAlto,8.1.0,Low
+Network Connection,PC3,ID1009,PaloAltoFirewall,PaloAlto,10.0.0,Critical
+Logout,PC15,ID1075,PaloAltoFirewall,PaloAlto,8.1.0,Medium
+Logout,PC14,ID1039,PaloAltoFirewall,PaloAlto,9.0.0,Medium
+Logout,PC1,ID1037,PaloAltoFirewall,PaloAlto,9.0.0,Low
+Logout,PC19,ID1038,PaloAltoFirewall,PaloAlto,9.0.0,Medium
+Network Connection,PC11,ID1055,PaloAltoFirewall,PaloAlto,10.0.0,High
+Login,PC14,ID1091,PaloAltoFirewall,PaloAlto,10.0.0,High
+File Access,PC16,ID1070,PaloAltoFirewall,PaloAlto,8.1.0,High
+File Access,PC1,ID1063,PaloAltoFirewall,PaloAlto,8.1.0,Low
+Logout,PC6,ID1080,PaloAltoFirewall,PaloAlto,10.0.0,Critical
+Logout,PC2,ID1049,PaloAltoFirewall,PaloAlto,9.0.0,High
+File Access,PC15,ID1028,PaloAltoFirewall,PaloAlto,8.1.0,Critical
+Network Connection,PC19,ID1054,PaloAltoFirewall,PaloAlto,8.1.0,Medium
+File Access,PC16,ID1072,PaloAltoFirewall,PaloAlto,9.0.0,High
+File Access,PC7,ID1065,PaloAltoFirewall,PaloAlto,9.0.0,Critical
+Logout,PC8,ID1037,PaloAltoFirewall,PaloAlto,8.1.0,Low
+File Access,PC3,ID1065,PaloAltoFirewall,PaloAlto,10.0.0,Critical
+Configuration Change,PC7,ID1042,PaloAltoFirewall,PaloAlto,9.0.0,Critical
+Login,PC16,ID1052,PaloAltoFirewall,PaloAlto,8.1.0,Critical
+Logout,PC6,ID1005,PaloAltoFirewall,PaloAlto,9.0.0,Medium
+Configuration Change,PC13,ID1067,PaloAltoFirewall,PaloAlto,8.1.0,Medium
+File Access,PC8,ID1056,PaloAltoFirewall,PaloAlto,9.0.0,Low
+Logout,PC18,ID1048,PaloAltoFirewall,PaloAlto,8.1.0,Critical
+File Access,PC7,ID1024,PaloAltoFirewall,PaloAlto,9.0.0,High
+Logout,PC12,ID1073,PaloAltoFirewall,PaloAlto,8.1.0,Critical
+Configuration Change,PC8,ID1028,PaloAltoFirewall,PaloAlto,9.0.0,High
+Logout,PC15,ID1088,PaloAltoFirewall,PaloAlto,9.0.0,Low
+File Access,PC2,ID1088,PaloAltoFirewall,PaloAlto,10.0.0,Medium
+File Access,PC14,ID1076,PaloAltoFirewall,PaloAlto,8.1.0,High
+Login,PC12,ID1095,PaloAltoFirewall,PaloAlto,10.0.0,Low
+Configuration Change,PC14,ID1020,PaloAltoFirewall,PaloAlto,8.1.0,Medium
